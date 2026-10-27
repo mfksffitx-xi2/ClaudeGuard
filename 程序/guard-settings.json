@@ -1,0 +1,9 @@
+{
+  "auto": true,
+  "country": "US",
+  "city": "",
+  "timezone": "Pacific Standard Time",
+  "node_match": "美国|United States|USA|US",
+  "ip_mode": "dynamic",
+  "update_repo": "mfksffitx-xi2/ClaudeGuard"
+}

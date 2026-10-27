@@ -1,0 +1,40 @@
+[
+  {
+    "condition": {
+      "regexFilter": "^https?://",
+      "excludedRequestDomains": [
+        "challenges.cloudflare.com"
+      ],
+      "excludedInitiatorDomains": [
+        "challenges.cloudflare.com"
+      ],
+      "resourceTypes": [
+        "main_frame",
+        "sub_frame",
+        "stylesheet",
+        "script",
+        "image",
+        "font",
+        "object",
+        "xmlhttprequest",
+        "ping",
+        "csp_report",
+        "media",
+        "websocket",
+        "other"
+      ]
+    },
+    "id": 1,
+    "action": {
+      "requestHeaders": [
+        {
+          "header": "Accept-Language",
+          "operation": "set",
+          "value": "en-SG,en;q=0.9"
+        }
+      ],
+      "type": "modifyHeaders"
+    },
+    "priority": 1
+  }
+]

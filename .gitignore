@@ -1,0 +1,13 @@
+# backups / logs / personal
+*.bak*
+*.log
+accounts/
+bodyguard-off.flag
+last-check.txt
+lastip.txt
+current.txt
+claude-switch.log
+bodyguard.log
+.DS_Store
+*.zip
+trash/

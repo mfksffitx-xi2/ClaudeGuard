@@ -1,0 +1,8 @@
+{
+  "auto": false,
+  "country": "US",
+  "city": "",
+  "timezone": "Pacific Standard Time",
+  "node_match": "美国|USA|US",
+  "ip_mode": "dynamic"
+}
