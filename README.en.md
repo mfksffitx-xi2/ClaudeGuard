@@ -6,6 +6,8 @@
 
 **Checks your PC's network and privacy setup before you use Claude, and closes Claude and your browsers if something is unsafe.**
 
+**For Claude users who want an account-protection / anti-ban style check first (egress IP, DNS, global proxy, location, WebRTC).**
+
 [![Release](https://img.shields.io/github/v/release/mfksffitx-xi2/ClaudeGuard?style=flat-square)](https://github.com/mfksffitx-xi2/ClaudeGuard/releases/latest)
 [![Downloads](https://img.shields.io/github/downloads/mfksffitx-xi2/ClaudeGuard/total?style=flat-square)](https://github.com/mfksffitx-xi2/ClaudeGuard/releases)
 [![Platform](https://img.shields.io/badge/platform-Windows%2010%20%7C%2011-0078D6?style=flat-square&logo=windows)](#requirements)

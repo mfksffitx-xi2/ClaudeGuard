@@ -6,6 +6,8 @@
 
 **用 Claude 之前，先帮你把电脑的网络和隐私检查一遍；不安全就自动关掉 Claude 和浏览器。**
 
+**适用：用 Claude 怕账号风控时，先做护号／防封检查（出口 IP、DNS、全局代理、定位、WebRTC）。**
+
 [![最新版本](https://img.shields.io/github/v/release/mfksffitx-xi2/ClaudeGuard?label=最新版本&style=flat-square)](https://github.com/mfksffitx-xi2/ClaudeGuard/releases/latest)
 [![下载次数](https://img.shields.io/github/downloads/mfksffitx-xi2/ClaudeGuard/total?label=下载&style=flat-square)](https://github.com/mfksffitx-xi2/ClaudeGuard/releases)
 [![系统](https://img.shields.io/badge/系统-Windows%2010%20%7C%2011-0078D6?style=flat-square&logo=windows)](#-需要什么)
